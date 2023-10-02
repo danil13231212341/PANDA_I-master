@@ -7,9 +7,7 @@ public class StreetLight {
     private int width, height;
 
     private Color[] lightColors = new Color[]{
-            new Color(255, 0, 0),
-            new Color(0, 52, 255),
-            new Color(74, 255, 0),
+            new Color(17, 16, 16),
             new Color(238, 255, 0),
     };
     private int iLightColor = 0;
